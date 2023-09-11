@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the KAIBURR Text Classification Task! This project showcases the power of text classification using the Consumer Complaint Dataset. Our primary aim is to categorize consumer complaints into distinct product categories. To accomplish this, we've harnessed the capabilities of four cutting-edge machine learning models:
+Welcome to the Text Classification Task! This project showcases the power of text classification using the Consumer Complaint Dataset. Our primary aim is to categorize consumer complaints into distinct product categories. To accomplish this, we've harnessed the capabilities of four cutting-edge machine learning models:
 
 1. **Multinomial Naive Bayes**
    - Model Type: Multinomial Naive Bayes
