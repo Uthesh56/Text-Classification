@@ -1,4 +1,4 @@
-# KAIBURR Text Classification Task
+# Text Classification Task
 
 ## Overview
 
