@@ -69,8 +69,8 @@ These data preprocessing steps played a crucial role in optimizing our text clas
 
 ## Conclusion
 
-- In the world of text classification, model selection is not a one-size-fits-all proposition. While Linear SVC stood out with the highest accuracy, it's important to remember that the choice of the best model depends on the specific needs and goals of your text classification task. Factors like model interpretability, training time, and scalability must also be weighed in the decision-making process.
+- In the world of text classification, model selection is not a one-size-fits-all proposition. While Linear SVC stood out with the highest accuracy, it's important to remember that the choice of the best model depends on the specific needs and goals of our text classification task. Factors like model interpretability, training time, and scalability must also be weighed in the decision-making process.
 
 - We've gone beyond accuracy to scrutinize precision, recall, and F1-score, providing a more comprehensive performance evaluation. This holistic approach proves crucial when dealing with imbalanced datasets or when certain classes carry greater significance.
 
-- Furthermore, we've highlighted the immense potential for optimization through hyperparameter tuning and feature engineering. By experimenting with different configurations and data preprocessing techniques, you can unlock the full capabilities of each model.
+- Furthermore, we've highlighted the immense potential for optimization through hyperparameter tuning and feature engineering. By experimenting with different configurations and data preprocessing techniques, we can unlock the full capabilities of each model.
