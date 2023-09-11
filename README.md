@@ -50,22 +50,22 @@ These data preprocessing steps played a crucial role in optimizing our text clas
 1. **Multinomial Naive Bayes**
    - Model Type: Multinomial Naive Bayes
    - Description: Leveraging the Naive Bayes algorithm, this model excels in text classification.
-   - Performance: Achieved an accuracy of 53.55%.
+   - Performance: Achieved an accuracy of 68.42%.
 
 2. **Logistic Regression**
    - Model Type: Logistic Regression
    - Description: Known for its simplicity and interpretability, Logistic Regression is a powerful linear classification algorithm.
-   - Performance: Impressive accuracy of 61.30%.
+   - Performance: Impressive accuracy of 79.70%.
 
 3. **Random Forest Classifier**
    - Model Type: Random Forest Classifier
    - Description: Harnessing the strength of ensemble learning, this model combines multiple decision trees for predictions.
-   - Performance: Delivered an accuracy rate of 60.30%.
+   - Performance: Delivered an accuracy rate of 75.92%.
 
 4. **Linear Support Vector Classifier (Linear SVC)**
    - Model Type: Linear Support Vector Classifier
    - Description: Tailored for linearly separable data, Linear SVC is a robust Support Vector Machine variant.
-   - Performance: Stood out with a remarkable accuracy of 61.875%.
+   - Performance: Stood out with a remarkable accuracy of 79.85%.
 
 ## Conclusion
 
